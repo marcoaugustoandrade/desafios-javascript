@@ -10,6 +10,8 @@ Gaste um tempo criando os wireframes no Figma, e se inspire nos designs do [Drib
 Deve ser responsivo!
 
 
+
+
 **Desafio 1**: implementar uma [pomodoro timer](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro). O histórico deve ser gravado no LocalStorage.
 
 **Desafio 2**: implementar um gerenciador de tarefas. As tarefas devem ser gravadas no LocalStorage e o navegador deve notificar 10 minutos antes.
