@@ -1,4 +1,4 @@
-# desafios-javascript
+# Desafios Pós-graduação em Desenvolvimento Web
 
 
 Utilizando os conhecimentos das disciplinas de HTML e CSS e Programação front-end, implementem os desafios a seguir.
