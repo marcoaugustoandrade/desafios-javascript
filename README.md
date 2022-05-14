@@ -7,10 +7,7 @@ As equipes podem ter até 3 (três) pessoas, e os desafios serão apresentandos 
 
 Gaste um tempo criando os wireframes no Figma, e se inspire nos designs do [Dribble](https://dribbble.com/).
 
-Deve ser responsivo!
-
-
-
+Deve ser responsivo! <br><br>
 
 **Desafio 1**: implementar uma [pomodoro timer](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro). O histórico deve ser gravado no LocalStorage.
 
